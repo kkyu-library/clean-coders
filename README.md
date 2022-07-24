@@ -2,7 +2,7 @@
 
 ### <a href="md/01. OOP.md">1. OOP</a>
 
-### 2. Functions
+### <a href="md/02. Functions.md">2. Functions</a>
 
 ### 3. Function Structure
 
