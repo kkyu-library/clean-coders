@@ -4,7 +4,7 @@
 
 ### <a href="md/02. Functions.md">2. Functions</a>
 
-### 3. Function Structure
+### <a href="md/03. Function Structure">3. Function Structure</a>
 
 ### 4. Forms
 
