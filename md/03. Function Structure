@@ -1,0 +1,27 @@
+## Function Structure
+
+### 1. Arguments
+
+### 2. The Stepdown Rule
+
+### 3. siwtches and cases
+
+### 4. Tomporal Coupling
+
+### 5. CQS
+
+### 6. Tell Don't Ask
+
+### 7. Law of Demeter
+
+### 8. early returns
+
+### 9. error handling
+
+### 10. Special Cases
+
+### 11. Null is not an error
+
+### 12. Null is a value
+
+### 13. try 도 하나의 역할/기능 이다.
