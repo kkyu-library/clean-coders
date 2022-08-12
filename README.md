@@ -10,15 +10,9 @@
 
 ### <a href="md/05. TDD-Practice.md">5. TDD-Practice</a>
 
-### 6. TDD-Tip
+### <a href="md/06. Architecture.md">6. Architecture</a>
 
-### 7-1. Architecture
-
-### 7-2. Developing-Domain-Model
-
-### 7-3. UseCases
-
-### 8. SOLID-Foundation
+### 7. SOLID-Foundation
 
 ### 9. SRP
 
