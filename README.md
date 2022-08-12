@@ -12,18 +12,6 @@
 
 ### <a href="md/06. Architecture.md">6. Architecture</a>
 
-### 7. SOLID-Foundation
-
-### 9. SRP
-
-### 10. OCP
-
-### 11. LSP
-
-### 12. ISP
-
-### 13. DIP
-
-### 14. SOLID-Case-Study
+### <a href="md/07. SOLID.md">7. SOLID</a>
 
 ### 15. Refactoring Technique
